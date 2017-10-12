@@ -1,0 +1,100 @@
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0
+:revealjs_slideNumber: true
+:source-highlighter: highlightjs
+:imagesdir: images
+:allow-uri-read:
+:safe: unsafe
+:numbered:
+:listing-caption: Listing
+
+ifdef::env-github[]
+:outfilesuffix: .adoc
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+endif::[]
+
+= A Invasão dos Equipamentos Smart
+
+De Relógios a Cidades Inteligentes 
+
+image:iot-dreamstime.jpg[150,150]
+
+http://about.me/manoelcampos[Prof. Me. Manoel Campos da Silva Filho]
+
+== Motivação
+
+Aplicativos invadiram as nossas vidas e estão em todos os lugares. 
+
+
+- Smart Devices, Wereables
+- Programação de brinquedos lego com Swift Playgrounds
+- Robôs
+- IoT
+- Smart Houses
+- Smart Cities
+
+Como programação de computadores pode ser divertido e desafiador (mostrar como pode ser fácil desenvolver para tais dispositivos; mostrar projetos como raspberry pi; arduino; android; iOS; android auto; apple auto; apple home; android home; swift playground.
+
+== Televisores
+
+possibilitando interatividade dos telespectadores, fornecendo serviços de utilidade pública (como consulta de resultado das loterias e localização de postos de saúde), navegação na internet, jogos, etc;
+
+image:tv-digital.jpg[link="http://www.portalmidiaesporte.com/2015/07/esporte-interativo-estreia-tela-em-l-no.html" title="Aplicativo de TV Digital"]
+
+== Drones
+
+Permitir controlar aeronaves não tripuladas por meio de controle remoto ou mesmo permitir que elas possam voar de forma autônoma sem intervenção humana. 
+
+video::RXZJzXf4Scg[youtube, width=640, height=480, title="DroneSeed: aeronave autônoma para plantio de sementes."]
+
+== Veículos
+
+Prover https://pt.wikipedia.org/wiki/Sistema_de_posicionamento_global[serviços de navegação por satélite (GPS)], entretenimento como players de vídeo e música e aplicações populares em smartphones como o Spotify, ou até mesmo permitir que carros possam ser guiados de forma autônoma, sem a intervenção do motorista, como é o caso de veículos da Tesla Motors. 
+
+== Carro autônomo da Tesla Motors
+
+video::192179726[vimeo, start=5, width=640, height=480]
+
+== Sistema autônomo de frenagem de emergência (EBS)
+
+video::TnFwOzylMtQ[youtube, width=640, height=480]
+
+== Estacionamento autônomo de veículo (sem presença do motorista)
+
+video::ig54q0rG94s[youtube, width=640, height=480]
+
+== O fim dos semáforos
+video::OlLFK8oSNEM[youtube, start=640, end=646, width=640, height=480]
+
+== Outros equipamentos
+
+- robôs, semâforos, câmeras fotográficas, geladeiras, produtos de automação residencial como fechaduras eletrônicas, lâmpadas e uma série de produtos inteligentes como porteiros eletrônicos, relógios, balanças Wi-Fi, etc.
+
+video::wek9VPTdMMM[youtube, width=640, height=480, title="Porteiro Eletrônico Inteligente: detecta movimentos e permite atender a campainha mesmo não estando em casa"]
+
+video::tmQpP_r9QsU[youtube, width=640, height=480, title="Balança Inteligente: mede peso, gordura corporal e conecta na Wi-Fi para enviar histórico para aplicativo"]
+
+=== Funcionamento de programas e suas utilidades
+
+Mesmo robôs que tomam decisões autônomas o fazem com base em análise de dados e instruções programadas por humanos. Por exemplo, sem precisar ir muito longe até os carros que dirigem sozinhos, atualmente temos carros convencionais, guiados por pessoas, que detectam a iminência de uma colisão e acionam o freio automaticamente. O veículo analisa dados como imagens de câmeras, velocidade do veículo e distância até um obstáculo. A partir de resultados de cálculos, o computador de bordo aciona os freios. Sem o conhecimento humano para desenvolver os programas utilizados pelo carro, nada disso seria possível. 
+
+Utilizando técnicas de inteligência artificial, o programa pode aprender ao longo do tempo a detectar situações não esperadas. Por exemplo, um programa que detecta pessoas em uma foto por melhorar a medida que ele avalia diferentes fotos de uma mesma pessoa, assim como acontece redes sociais como o Facebook.
+
+
+
+[NOTE]
+====
+Tecnologias como a utilizada em carros para o sistema de estacionamento autônomo normalmente começam com protótipos em computadores convencionais. Um exemplo é http://rorchard.github.io/FuzzyJ/FuzzyTruck.html[este aplicativo] que permite estacionar um caminhão em uma vaga de garagem. Você pode brincar com o aplicativo, que pode ser acessado online no final da página indicada. 
+====
+
+== Lições a serem tomadas
+
+Escrever algoritmos como os apresentados até agora é fácil. Mas de fato, criar algoritmos para resolver problemas reais como os vários apresentados ao longo do capítulo é desafiador. Mas com dedicação, qualquer pessoa pode aprender a desenvolver algoritmos.
+
+Se o Thomas (um garoto de 12 anos) pode, você também pode.
+
+video::Fkd9TWUtFm0[youtube, width=640, height=480, title="Um desenvolvedor de aplicativos de 12 anos de idade. (*Ative as legendas*)"]
+
