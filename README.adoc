@@ -4,7 +4,6 @@
 :imagesdir: images
 :allow-uri-read:
 :safe: unsafe
-:numbered:
 :listing-caption: Listing
 
 ifdef::env-github[]
@@ -18,23 +17,213 @@ endif::[]
 
 = A Invasão dos Equipamentos Smart
 
-De Relógios a Cidades Inteligentes 
+De Relógios à Cidades Inteligentes 
 
 image:iot-dreamstime.jpg[150,150]
 
 http://about.me/manoelcampos[Prof. Me. Manoel Campos da Silva Filho]
 
-== Motivação
+== Apps invadiram as nossas vidas e estão em em lugares nunca antes esperados
 
-Aplicativos invadiram as nossas vidas e estão em todos os lugares. 
+image::apps-everywhere.jpg[link=http://blogs.windriver.com/wind_river_blog/2015/10/applications-everywhere.html]
+
+== A reinvenção do telefone celular
+
+- Tudo começou com a reinvenção do telefone celular.
+- O padrão que vemos hoje foi popularizado pela Apple com o iPhone.
+
+****
+image:smartphone-querty.png[] image:arrow.png[] image:iphone_3g.png[]
+****
+
+== Smartphones
+
+image::smartphone-components.png[]
+
+== Smartphones
+- Apps tornaram nossa vida mais fácil e divertida.
+- Passagem a ser parte natural do nosso cotidiano. Querem ver?
+
+=== !
+image:apps/01-facebook.png[]
+
+[NOTE.speaker]
+--
+Fazer parte da vida dos seus amigos online.
+--
+
+=== !
+image:apps/02-fb-messenger.png[]
+
+[NOTE.speaker]
+--
+Conversar com aqueles amigos online.
+--
+
+=== !
+image:apps/03-instagram.png[]
+
+[NOTE.speaker]
+--
+Ver somente fotos daqueles amigos online.
+--
+
+=== !
+image:apps/04-whatsapp.png[]
+
+[NOTE.speaker]
+--
+Continuar conversando com os mesmos amigos, mas esperar que eles respondam imediatamente.
+--
+
+=== !
+image:apps/05-snapchat.png[]
+
+[NOTE.speaker]
+--
+Fazer coisas que você teria vergonha de fazer em outro lugar.
+--
+
+=== !
+image:apps/06-spotify.png[]
+
+[NOTE.speaker]
+--
+Deixar de baixar música pirata.
+--
 
 
-- Smart Devices, Wereables
-- Programação de brinquedos lego com Swift Playgrounds
-- Robôs
-- IoT
-- Smart Houses
-- Smart Cities
+=== !
+image:apps/07-bb.png[]
+
+[NOTE.speaker]
+--
+Fazer desaparecer o salário que você levou um mês pra ganhar.
+--
+
+=== !
+image:apps/07-caixa.png[]
+
+[NOTE.speaker]
+--
+Igual ao anterior, só que em um app mal feito.
+--
+
+
+=== !
+image:apps/08-loterias.png[]
+
+[NOTE.speaker]
+--
+Tentar a sorte.
+--
+
+=== !
+image:apps/09-google.png[]
+
+[NOTE.speaker]
+--
+Pesquisar qualquer coisa. Se o que pesquisou não for encontrado aqui é porque tal coisa não existe.
+
+Quer provar que "Deus" existe? Pesquisa "Deus" no Google. Apareceu? Então existe.
+--
+
+=== !
+image:apps/18-angry-birds.png[]
+
+[NOTE.speaker]
+--
+Este não precisa de comentários.
+--
+
+=== !
+image:apps/19-pokemon.png[]
+
+[NOTE.speaker]
+--
+Muito menos este.
+--
+
+=== Agora vamos falar sério
+image:apps/10-google-drive.png[]
+
+[NOTE.speaker]
+--
+Salvar seus arquivos na nuvem, compartilhar arquivos com outras pessoas.
+--
+
+=== !
+image:apps/11-maps.png[]
+
+[NOTE.speaker]
+--
+Pesquisar lugares e cidades, chegar a determinado lugar.
+--
+
+=== !
+image:apps/12-youtube.png[]
+
+[NOTE.speaker]
+--
+Assistir vídeos úteis e inúteis, ouvir músicas.
+--
+
+=== !
+image:apps/13-dropbox.png[]
+
+[NOTE.speaker]
+--
+Mesmo que o Google Drive.
+--
+
+=== !
+image:apps/14-netflix.png[]
+
+[NOTE.speaker]
+--
+Assistir filmes e séries.
+--
+
+=== !
+image:apps/15-shazam.png[]
+
+[NOTE.speaker]
+--
+Descobrir que música é aquela que começou a tocar e você não faz ideia qual é o nome.
+--
+
+=== !
+image:apps/16-twitter.png[]
+
+[NOTE.speaker]
+--
+Diminuir o bla-bla-bla e ir direto ao ponto utilizando apenas 140 caracteres (provavelmente 280 muito em breve).
+--
+
+=== !
+image:apps/17-uber.png[]
+
+[NOTE.speaker]
+--
+Deixar de perder tempo e dinheiro com taxi.
+--
+
+=== !
+image:apps/20-ifto.png[]
+
+== Smart Devices
+
+== Wereables
+
+== Robôs
+
+== Programação de brinquedos lego com Swift Playgrounds
+
+== IoT
+
+== Smart Houses
+
+== Smart Cities
 
 Como programação de computadores pode ser divertido e desafiador (mostrar como pode ser fácil desenvolver para tais dispositivos; mostrar projetos como raspberry pi; arduino; android; iOS; android auto; apple auto; apple home; android home; swift playground.
 
