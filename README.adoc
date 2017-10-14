@@ -27,10 +27,10 @@ http://about.me/manoelcampos[Prof. Me. Manoel Campos da Silva Filho]
 
 image::apps-everywhere.jpg[link=http://blogs.windriver.com/wind_river_blog/2015/10/applications-everywhere.html]
 
-== A reinvenção do telefone celular
+== A reinvenção do celular
 
-- Tudo começou com a reinvenção do telefone celular.
-- O padrão que vemos hoje foi popularizado pela Apple com o iPhone.
+- Tudo começou com a reinvenção do celular.
+- O padrão atual foi popularizado pelo iPhone.
 
 ****
 image:smartphone-querty.png[] image:arrow.png[] image:iphone_3g.png[]
@@ -42,7 +42,7 @@ image::smartphone-components.png[]
 
 == Smartphones
 - Apps tornaram nossa vida mais fácil e divertida.
-- Passagem a ser parte natural do nosso cotidiano. Querem ver?
+- Passaram a ser parte natural do nosso cotidiano. Querem ver?
 
 === !
 image:apps/01-facebook.png[]
@@ -209,14 +209,103 @@ Deixar de perder tempo e dinheiro com taxi.
 === !
 image:apps/20-ifto.png[]
 
-== Smart Devices: dispositivos inteligentes
+[[dark]]
+== Smart Devices
+
+image::iot-dreamstime3.jpg[background]
 
 [%step]
-- Smartphones são os dispositivos inteligentes mais populares.
-- Eles foram apenas o início de uma grande revolução tecnológica.
-- image:iot-dreamstime.jpg[150,150]
+- Conectados
+- Programáveis
+- Personalizáveis 
+- Operados por toque, voz, vídeo, ...
+- Sensores que interagem com o ambiente
+- Autônomos
+
+== Smart Devices
+
+image::journey.jpg[background, link=http://www.yourthoughtpartner.com/blog/think-of-your-strategy-as-a-journey]
+
+[%step]
+- Smartphones são os mais populares
+- Apenas o início de uma grande revolução tecnológica.
 
 == Wereables
+
+[%step]
+- Relógios inteligentes foram a evolução natural
+
+== Smart Watches
+
+video::oEDokxGcdVw[youtube, start=14, end=38, width=640, height=480]
+
+[NOTE.speaker]
+--
+- Relógios para prática de esportes
+- Batimentos cardíacos
+- Consumo de calorias
+- Notificações do celular
+- Música
+- E até chamadas
+--
+
+== Smart Watches
+
+image:smartphone-watch.png[]
+
+=== !
+image:apple-watch-calls.png[] 
+
+=== !
+image:apple-watch-gps.jpg[] 
+
+=== !
+image:apple-watch-heart-rate.png[] 
+
+=== !
+image:apple-watch-music.jpg[] 
+
+== Fitness Trackers
+
+Fitness Tracker & Sleep Trackers
+
+video::aunF4Sog_UQ[youtube, width=640, height=480]
+
+== !
+
+video::yOWhJBKqkgk[youtube, start=12, end=35, width=640, height=480]
+
+== !
+
+image::weareables.jpg[link=https://www.pinterest.com/keithgulliver/wearable-technology-and-life-logging/, background]
+
+== Wereables
+
+- Tênis Nike
+- Óculos, Lentes
+- T-shirt
+- VR
+
+== Smart Jacket
+video::AnmFcQA7glo[youtube, start=35, end=93, width=640, height=480]
+
+== Smart Jacket
+video::OVWni7CYBLE[youtube, start=6, end=30, width=640, height=480]
+
+
+== Wereables
+
+https://www.thetrackr.com[Chaveiros / Pingentes Rastreadores]
+
+video::O2hbQjNLibI[youtube, start=79, end=89, width=640, height=480]
+
+== Wereables
+
+[%step]
+- Óculos como o http://glass.google.com[Google Glass]
+- Uma realidade bem distante de https://youtu.be/M8qG0vS2zWM[Black Mirror]
+
+video::ChUcIpIiOlk[youtube, start=23, end=29, width=640, height=480]
 
 == Robôs
 
