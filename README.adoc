@@ -1,10 +1,12 @@
-:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0
+:revealjsdir: reveal.js
+// https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0
 :revealjs_slideNumber: true
 :source-highlighter: highlightjs
 :imagesdir: images
 :allow-uri-read:
 :safe: unsafe
 :listing-caption: Listing
+:customcss: estilo.css
 
 ifdef::env-github[]
 :outfilesuffix: .adoc
@@ -18,8 +20,6 @@ endif::[]
 = A Invasão dos Equipamentos Smart
 
 De Relógios à Cidades Inteligentes 
-
-image:iot-dreamstime.jpg[150,150]
 
 http://about.me/manoelcampos[Prof. Me. Manoel Campos da Silva Filho]
 
@@ -92,7 +92,6 @@ image:apps/06-spotify.png[]
 Deixar de baixar música pirata.
 --
 
-
 === !
 image:apps/07-bb.png[]
 
@@ -109,13 +108,12 @@ image:apps/07-caixa.png[]
 Igual ao anterior, só que em um app mal feito.
 --
 
-
 === !
 image:apps/08-loterias.png[]
 
 [NOTE.speaker]
 --
-Tentar a sorte.
+Tentar ficar rico sem esforço.
 --
 
 === !
@@ -211,7 +209,12 @@ Deixar de perder tempo e dinheiro com taxi.
 === !
 image:apps/20-ifto.png[]
 
-== Smart Devices
+== Smart Devices: dispositivos inteligentes
+
+[%step]
+- Smartphones são os dispositivos inteligentes mais populares.
+- Eles foram apenas o início de uma grande revolução tecnológica.
+- image:iot-dreamstime.jpg[150,150]
 
 == Wereables
 
