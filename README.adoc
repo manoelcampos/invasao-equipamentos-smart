@@ -227,7 +227,7 @@ video::oEDokxGcdVw[youtube, start=14, end=38, width=640, height=480]
 - E até chamadas
 --
 
-== Smart Watches
+=== !
 
 image:smartphone-watch.png[]
 
@@ -351,17 +351,30 @@ image:tv-digital.jpg[link="http://www.portalmidiaesporte.com/2015/07/esporte-int
 - Engenharia de tráfego
 - Semáforos inteligentes
 
-== Carro autônomo da Tesla Motors
+== Park Assistance você já viu
+
+video::xJrmy7XnWLU[youtube, width=640, height=480]
+
+== E um telão que te ajuda a estacionar?
+
+video::PDwHYILZyd0[youtube, width=640, height=480]
+
+== Que tal ir embora e deixar o caro se virar?
+
+video::ig54q0rG94s[youtube, width=640, height=480]
+
+== Bom mesmo é deixar o carro dirigir
 
 video::192179726[vimeo, start=5, width=640, height=480]
 
-== Sistema autônomo de frenagem de emergência (EBS)
+== EBS
+[NOTE.speaker]
+--
+Sistema autônomo de frenagem de emergência
+--
 
 video::TnFwOzylMtQ[youtube, width=640, height=480]
 
-== Estacionamento autônomo de veículo (sem presença do motorista)
-
-video::ig54q0rG94s[youtube, width=640, height=480]
 
 == O fim dos semáforos
 video::OlLFK8oSNEM[youtube, start=640, end=646, width=640, height=480]
