@@ -273,17 +273,19 @@ video::AnmFcQA7glo[youtube, start=35, end=93, width=640, height=480]
 == Smart Jacket
 video::OVWni7CYBLE[youtube, start=6, end=30, width=640, height=480]
 
-== Óculos / Lentes
+== Black Mirror
 
-[%step]
-- https://youtu.be/M8qG0vS2zWM[Black Mirror]: Uma realidade bem distante
-- http://glass.google.com[Google Glass] já é realidade
+Uma realidade distante... 
 
 video::ChUcIpIiOlk[youtube, start=23, end=29, width=640, height=480]
 
-== !
+== ... mas nem tanto
 
-Visão geral dos Wearables
+http://glass.google.com[Google Glass] já é realidade
+
+image::google-glass.png[background, link=https://9to5google.com/guides/google-glass/]
+
+== !
 
 image::weareables.jpg[background, link=https://www.pinterest.com/keithgulliver/wearable-technology-and-life-logging/]
 
@@ -291,33 +293,63 @@ image::weareables.jpg[background, link=https://www.pinterest.com/keithgulliver/w
 
 video::O2hbQjNLibI[youtube, start=79, end=89, width=640, height=480]
 
-== Robôs
+== Lego
 
-== Programação de brinquedos lego com Swift Playgrounds
-
-== IoT
-
-== Smart Houses
-
-== Smart Cities
-
-Como programação de computadores pode ser divertido e desafiador (mostrar como pode ser fácil desenvolver para tais dispositivos; mostrar projetos como raspberry pi; arduino; android; iOS; android auto; apple auto; apple home; android home; swift playground.
-
-== Televisores
-
-possibilitando interatividade dos telespectadores, fornecendo serviços de utilidade pública (como consulta de resultado das loterias e localização de postos de saúde), navegação na internet, jogos, etc;
-
-image:tv-digital.jpg[link="http://www.portalmidiaesporte.com/2015/07/esporte-interativo-estreia-tela-em-l-no.html" title="Aplicativo de TV Digital"]
+video::6vSrOs7Rne0[youtube, start=6, end=28, width=640, height=480]
 
 == Drones
 
+[NOTE.speaker]
+--
 Permitir controlar aeronaves não tripuladas por meio de controle remoto ou mesmo permitir que elas possam voar de forma autônoma sem intervenção humana. 
+--
 
-video::RXZJzXf4Scg[youtube, width=640, height=480, title="DroneSeed: aeronave autônoma para plantio de sementes."]
+video::RXZJzXf4Scg[youtube, width=640, height=480, title="Plantio de sementes"]
 
-== Veículos
+== !
 
-Prover https://pt.wikipedia.org/wiki/Sistema_de_posicionamento_global[serviços de navegação por satélite (GPS)], entretenimento como players de vídeo e música e aplicações populares em smartphones como o Spotify, ou até mesmo permitir que carros possam ser guiados de forma autônoma, sem a intervenção do motorista, como é o caso de veículos da Tesla Motors. 
+image::iot.png[background, size=cover, link=https://ayehu.com/how-the-internet-of-things-will-complicate-incident-response/]
+
+== Smart Houses
+
+- Lâmpadas
+- Portões
+- Ar condicionado
+- Fechaduras
+
+== Porteiro Eletrônico Inteligente
+
+[NOTE.speaker]
+--
+Detecta movimentos e permite atender a campainha mesmo não estando em casa.
+--
+
+video::wek9VPTdMMM[youtube, width=640, height=480]
+
+== Balança Inteligente
+[NOTE.speaker]
+--
+Mede peso, gordura corporal e conecta na Wi-Fi para enviar histórico para aplicativo.
+--
+
+video::tmQpP_r9QsU[youtube, width=640, height=480]
+
+== Televisores
+
+[NOTE.speaker]
+--
+possibilitando interatividade dos telespectadores, fornecendo serviços de utilidade pública (como consulta de resultado das loterias e localização de postos de saúde), navegação na internet, jogos, etc;
+--
+
+image:tv-digital.jpg[link="http://www.portalmidiaesporte.com/2015/07/esporte-interativo-estreia-tela-em-l-no.html" title="Aplicativo de TV Digital"]
+
+== Smart Cities
+
+- Iluminação pública
+- Câmeras
+- Purificação do ar
+- Engenharia de tráfego
+- Semáforos inteligentes
 
 == Carro autônomo da Tesla Motors
 
@@ -333,33 +365,3 @@ video::ig54q0rG94s[youtube, width=640, height=480]
 
 == O fim dos semáforos
 video::OlLFK8oSNEM[youtube, start=640, end=646, width=640, height=480]
-
-== Outros equipamentos
-
-- robôs, semâforos, câmeras fotográficas, geladeiras, produtos de automação residencial como fechaduras eletrônicas, lâmpadas e uma série de produtos inteligentes como porteiros eletrônicos, relógios, balanças Wi-Fi, etc.
-
-video::wek9VPTdMMM[youtube, width=640, height=480, title="Porteiro Eletrônico Inteligente: detecta movimentos e permite atender a campainha mesmo não estando em casa"]
-
-video::tmQpP_r9QsU[youtube, width=640, height=480, title="Balança Inteligente: mede peso, gordura corporal e conecta na Wi-Fi para enviar histórico para aplicativo"]
-
-=== Funcionamento de programas e suas utilidades
-
-Mesmo robôs que tomam decisões autônomas o fazem com base em análise de dados e instruções programadas por humanos. Por exemplo, sem precisar ir muito longe até os carros que dirigem sozinhos, atualmente temos carros convencionais, guiados por pessoas, que detectam a iminência de uma colisão e acionam o freio automaticamente. O veículo analisa dados como imagens de câmeras, velocidade do veículo e distância até um obstáculo. A partir de resultados de cálculos, o computador de bordo aciona os freios. Sem o conhecimento humano para desenvolver os programas utilizados pelo carro, nada disso seria possível. 
-
-Utilizando técnicas de inteligência artificial, o programa pode aprender ao longo do tempo a detectar situações não esperadas. Por exemplo, um programa que detecta pessoas em uma foto por melhorar a medida que ele avalia diferentes fotos de uma mesma pessoa, assim como acontece redes sociais como o Facebook.
-
-
-
-[NOTE]
-====
-Tecnologias como a utilizada em carros para o sistema de estacionamento autônomo normalmente começam com protótipos em computadores convencionais. Um exemplo é http://rorchard.github.io/FuzzyJ/FuzzyTruck.html[este aplicativo] que permite estacionar um caminhão em uma vaga de garagem. Você pode brincar com o aplicativo, que pode ser acessado online no final da página indicada. 
-====
-
-== Lições a serem tomadas
-
-Escrever algoritmos como os apresentados até agora é fácil. Mas de fato, criar algoritmos para resolver problemas reais como os vários apresentados ao longo do capítulo é desafiador. Mas com dedicação, qualquer pessoa pode aprender a desenvolver algoritmos.
-
-Se o Thomas (um garoto de 12 anos) pode, você também pode.
-
-video::Fkd9TWUtFm0[youtube, width=640, height=480, title="Um desenvolvedor de aplicativos de 12 anos de idade. (*Ative as legendas*)"]
-
