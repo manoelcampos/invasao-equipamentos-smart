@@ -24,18 +24,15 @@ De Relógios à Cidades Inteligentes
 
 http://about.me/manoelcampos[Prof. Me. Manoel Campos da Silva Filho]
 
-== Apps invadiram as nossas vidas e estão em em lugares nunca antes esperados
+== Apps invadiram as nossas vidas e estão em lugares nunca antes esperados
 
 image::apps-everywhere.jpg[link=http://blogs.windriver.com/wind_river_blog/2015/10/applications-everywhere.html]
 
 == A reinvenção do celular
 
-- Tudo começou com a reinvenção do celular.
-- O padrão atual foi popularizado pelo iPhone.
+O padrão atual foi popularizado pelo iPhone.
 
-****
-image:smartphone-querty.png[] image:arrow.png[] image:iphone_3g.png[]
-****
+image:querty-to-smartphone.png[] 
 
 == Smartphones
 
@@ -121,7 +118,7 @@ image:apps/19-pokemon.png[]
 Muito menos este.
 --
 
-=== Agora vamos falar sério
+=== !
 image:apps/10-google-drive.png[]
 
 [NOTE.speaker]
@@ -289,6 +286,8 @@ image::google-glass.png[background, link=https://9to5google.com/guides/google-gl
 
 image::weareables.jpg[background, link=https://www.pinterest.com/keithgulliver/wearable-technology-and-life-logging/]
 
+== Outros Devices
+
 == Chaveiros / Pingentes Rastreadores
 
 video::O2hbQjNLibI[youtube, start=79, end=89, width=640, height=480]
@@ -310,8 +309,12 @@ video::RXZJzXf4Scg[youtube, width=640, height=480, title="Plantio de sementes"]
 
 image::iot.png[background, size=cover, link=https://ayehu.com/how-the-internet-of-things-will-complicate-incident-response/]
 
-== Smart Houses
+[[dark]]
+== Smart Homes
 
+image::smart-home.jpg[background, link=http://www.elitefire.co.uk/news/]
+
+[%step]
 - Lâmpadas
 - Portões
 - Ar condicionado
@@ -334,22 +337,59 @@ Mede peso, gordura corporal e conecta na Wi-Fi para enviar histórico para aplic
 
 video::tmQpP_r9QsU[youtube, width=640, height=480]
 
-== Televisores
+[[dark]]
+== Smart Cities
 
-[NOTE.speaker]
---
-possibilitando interatividade dos telespectadores, fornecendo serviços de utilidade pública (como consulta de resultado das loterias e localização de postos de saúde), navegação na internet, jogos, etc;
---
+image::smart-cities.jpg[background, link=http://www.businessfrance.fr/news/creative-france-enhances-indias-smart-city-2016-agenda]
 
-image:tv-digital.jpg[link="http://www.portalmidiaesporte.com/2015/07/esporte-interativo-estreia-tela-em-l-no.html" title="Aplicativo de TV Digital"]
+[%step]
+- Eficiente: custos e recursos
+- Ecológica e Sustentável
+- Resolver problemas das cidades atuais
+- Smart Buildings
+- Transportes públicos
+- Purificação do ar
+- Engenharia de tráfego
+- Informação de vagas de estacionamento
 
 == Smart Cities
 
-- Iluminação pública
-- Câmeras
-- Purificação do ar
-- Engenharia de tráfego
-- Semáforos inteligentes
+video::Wk0nQST8fTQ[youtube, width=640, height=480]
+
+== Smart Cities
+
+Iluminação e Câmeras
+
+video::mkEMIKagbjE[youtube, width=640, height=480]
+
+== Smart Cities
+
+- Fornecimento de Água, Energia e Gás
+- Manutenção
+
+video::iiysqhqqLZU[youtube, width=640, height=480]
+
+== Smart Cities
+
+Transportes e Tráfego
+
+video::u5V_VzRrSBI[youtube, width=640, height=480]
+
+== Smart Cities
+
+Transportes e Tráfego
+
+video::Czrc1JfIBRw[youtube, start=3, end=15, width=640, height=480]
+
+== Smart Cities
+
+Transportes e Tráfego
+
+video::nnyRZotnPSU[youtube, start=274, end=287, width=640, height=480]
+
+== Smart Cars
+
+image::smart-car.jpg[background, link=http://www.thestar.com.my/tech/tech-news/2016/01/29/can-japan-overtake-the-us-as-the-place-to-test-autonomous-driving-tech/]
 
 == Park Assistance você já viu
 
@@ -359,7 +399,7 @@ video::xJrmy7XnWLU[youtube, width=640, height=480]
 
 video::PDwHYILZyd0[youtube, width=640, height=480]
 
-== Que tal ir embora e deixar o caro se virar?
+== Que tal ir embora e deixar o carro se virar?
 
 video::ig54q0rG94s[youtube, width=640, height=480]
 
@@ -375,6 +415,20 @@ Sistema autônomo de frenagem de emergência
 
 video::TnFwOzylMtQ[youtube, width=640, height=480]
 
+== O fim dos semáforos?
+video::OlLFK8oSNEM[youtube, start=640, end=647, width=640, height=480]
 
-== O fim dos semáforos
-video::OlLFK8oSNEM[youtube, start=640, end=646, width=640, height=480]
+== Pra finalizar
+
+[%step]
+- Tecnologia veio para ficar
+- Toda essa inovação é só o início
+- Programação de computadores é e se tornará ainda mais essencial
+- Profissionais de informática podem tirar vantagem para empreender
+- Desenvolver tecnologia não é coisa de outro mundo
+- Grandes empresas como Apple e Google proveem muitas ferramentas
+- Esses exemplos mostram que criar tecnologia pode ser algo desafiador e divertido
+
+== !
+
+image::thanks.jpg[background, link=http://www.mastiduniya.com/15-best-thank-you-images-for-whatsapp-to-wish/]
