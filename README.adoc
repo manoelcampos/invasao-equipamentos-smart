@@ -424,6 +424,9 @@ video::OlLFK8oSNEM[youtube, start=640, end=647, width=640, height=480]
 - Tecnologia veio para ficar
 - Toda essa inovação é só o início
 - Programação de computadores é e se tornará ainda mais essencial
+
+== Pra finalizar
+[%step]
 - Profissionais de informática podem tirar vantagem para empreender
 - Desenvolver tecnologia não é coisa de outro mundo
 - Grandes empresas como Apple e Google proveem muitas ferramentas
