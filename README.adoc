@@ -24,13 +24,13 @@ De Relógios à Cidades Inteligentes
 
 http://about.me/manoelcampos[Prof. Me. Manoel Campos da Silva Filho]
 
-== Apps invadiram as nossas vidas e estão em lugares nunca antes esperados
+== Apps em todo lugar
 
 image::apps-everywhere.jpg[link=http://blogs.windriver.com/wind_river_blog/2015/10/applications-everywhere.html]
 
 == A reinvenção do celular
 
-O padrão atual foi popularizado pelo iPhone.
+O padrão atual foi popularizado pela Apple (2007).
 
 image:querty-to-smartphone.png[] 
 
@@ -210,7 +210,7 @@ image::athos-smart-tshirt.jpg[background]
 
 == Smart Watches
 
-Relógios inteligentes foram o ponto de partida
+O ponto de partida
 
 video::oEDokxGcdVw[youtube, start=14, end=38, width=640, height=480]
 
@@ -232,10 +232,10 @@ image:smartphone-watch.png[]
 image:apple-watch-calls.png[] 
 
 === !
-image:apple-watch-gps.jpg[] 
+image:apple-watch-heart-rate.png[] 
 
 === !
-image:apple-watch-heart-rate.png[] 
+image:apple-watch-gps.jpg[] 
 
 === !
 image:apple-watch-music.jpg[] 
@@ -274,7 +274,7 @@ video::OVWni7CYBLE[youtube, start=6, end=30, width=640, height=480]
 
 Uma realidade distante... 
 
-video::ChUcIpIiOlk[youtube, start=23, end=29, width=640, height=480]
+video::ChUcIpIiOlk[youtube, autoplay, loop, start=23, end=29, width=640, height=480]
 
 == ... mas nem tanto
 
@@ -432,6 +432,7 @@ video::OlLFK8oSNEM[youtube, start=640, end=647, width=640, height=480]
 - Grandes empresas como Apple e Google proveem muitas ferramentas
 - Esses exemplos mostram que criar tecnologia pode ser algo desafiador e divertido
 
-== !
+== Inspirem-se
 
 image::thanks.jpg[background, link=http://www.mastiduniya.com/15-best-thank-you-images-for-whatsapp-to-wish/]
+
