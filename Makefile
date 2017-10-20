@@ -1,5 +1,5 @@
 all: 
-	bundle exec asciidoctor-revealjs "slides.adoc" -o index.html
+	bundle exec asciidoctor-revealjs "slides.adoc" -o slides.html
 
 install:
 	#Install bundler, that in turn downloads Ruby dependencies inside the Gemfile: http://bundler.io
@@ -9,6 +9,3 @@ install:
 	bundle --path=.bundle/gems --binstubs=.bundle/.bin
 	#Install build dependencies using Bundler
 	bundler
-	
-clean:
-	rm -f index.html

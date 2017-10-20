@@ -6,5 +6,5 @@ Uma apresentação sobre equipamentos inteligentes, escrita em http://asciidocto
 
 Para instalar as dependências para poder compilar os slides basta executar `make install`.
 
-Para compilar os slides para HTML, basta executar `make` e um arquivo `index.html` será gerado na pasta atual.
+Para compilar os slides para HTML, basta executar `make` e um arquivo `slides.html` será gerado na pasta atual.
 
