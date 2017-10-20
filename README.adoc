@@ -47,140 +47,53 @@ image::smartphone-components.png[]
 === !
 image:apps/01-facebook.png[]
 
-[NOTE.speaker]
---
-Fazer parte da vida dos seus amigos online.
---
-
 === !
 image:apps/02-fb-messenger.png[]
-
-[NOTE.speaker]
---
-Conversar com aqueles amigos online.
---
 
 === !
 image:apps/03-instagram.png[]
 
-[NOTE.speaker]
---
-Ver somente fotos daqueles amigos online.
---
-
 === !
 image:apps/04-whatsapp.png[]
-
-[NOTE.speaker]
---
-Continuar conversando com os mesmos amigos, mas esperar que eles respondam imediatamente.
---
 
 === !
 image:apps/05-snapchat.png[]
 
-[NOTE.speaker]
---
-Fazer coisas que você teria vergonha de fazer em outro lugar.
---
-
 === !
 image:apps/06-spotify.png[]
-
-[NOTE.speaker]
---
-Deixar de baixar música pirata.
---
 
 === !
 image:apps/07-bb.png[]
 
-[NOTE.speaker]
---
-Fazer desaparecer o salário que você levou um mês pra ganhar.
---
-
 === !
 image:apps/09-google.png[]
-
-[NOTE.speaker]
---
-Pesquisar qualquer coisa. Se o que pesquisou não for encontrado aqui é porque tal coisa não existe.
-
-Quer provar que "Deus" existe? Pesquisa "Deus" no Google. Apareceu? Então existe.
---
 
 === !
 image:apps/19-pokemon.png[]
 
-[NOTE.speaker]
---
-Muito menos este.
---
-
 === !
 image:apps/10-google-drive.png[]
-
-[NOTE.speaker]
---
-Salvar seus arquivos na nuvem, compartilhar arquivos com outras pessoas.
---
 
 === !
 image:apps/11-maps.png[]
 
-[NOTE.speaker]
---
-Pesquisar lugares e cidades, chegar a determinado lugar.
---
-
 === !
 image:apps/12-youtube.png[]
-
-[NOTE.speaker]
---
-Assistir vídeos úteis e inúteis, ouvir músicas.
---
 
 === !
 image:apps/13-dropbox.png[]
 
-[NOTE.speaker]
---
-Mesmo que o Google Drive.
---
-
 === !
 image:apps/14-netflix.png[]
-
-[NOTE.speaker]
---
-Assistir filmes e séries.
---
 
 === !
 image:apps/15-shazam.png[]
 
-[NOTE.speaker]
---
-Descobrir que música é aquela que começou a tocar e você não faz ideia qual é o nome.
---
-
 === !
 image:apps/16-twitter.png[]
 
-[NOTE.speaker]
---
-Diminuir o bla-bla-bla e ir direto ao ponto utilizando apenas 140 caracteres (provavelmente 280 muito em breve).
---
-
 === !
 image:apps/17-uber.png[]
-
-[NOTE.speaker]
---
-Deixar de perder tempo e dinheiro com taxi.
---
 
 [[dark]]
 == Smart Devices
