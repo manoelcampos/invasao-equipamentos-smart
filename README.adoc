@@ -2,6 +2,10 @@
 
 Uma apresentação sobre equipamentos inteligentes, escrita em http://asciidoctor.org[Asciidoc] e https://github.com/hakimel/reveal.js[Reveal.js] por meio do plugin https://github.com/asciidoctor/asciidoctor-reveal.js/[Asciidoctor Reveal.js].
 
+== Slides
+
+Os slides podem ser acessados online http://manoelcampos.com/invasao-equipamentos-smart/slides.html[neste link].
+
 == Compilar os slides
 
 Para instalar as dependências para poder compilar os slides basta executar `make install`.
